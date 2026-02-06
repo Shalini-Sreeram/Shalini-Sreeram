@@ -84,10 +84,8 @@ Librosa | TensorFlow | Keras | Python | Streamlit
 <h3>🌐 <b>Let's Connect:</b></h3>
 <p style="font-size: 18px">
 
-- [LinkedIn](https://www.linkedin.com/in/shalini-sreeram/)
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shalini-sreeram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shalini-sreeram/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shalini_sreeram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shalini_sreeram/" height="30" width="40" /></a>
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="12" width="12" />   [LinkedIn](https://www.linkedin.com/in/shalini-sreeram/)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="12" width="12" /> [leetcode](https://leetcode.com/u/shalini_sreeram/)
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/gopikash2331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/gopikash2331" height="30" width="40" /></a>
 
 
