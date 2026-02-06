@@ -85,8 +85,8 @@ Librosa | TensorFlow | Keras | Python | Streamlit
 <p style="font-size: 18px">
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="12" width="12" />   [LinkedIn](https://www.linkedin.com/in/shalini-sreeram/)
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="12" width="12" /> [leetcode](https://leetcode.com/u/shalini_sreeram/)
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/gopikash2331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/gopikash2331" height="30" width="40" /></a>
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="12" width="12" /> [LeetCode](https://leetcode.com/u/shalini_sreeram/)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="15" width="15" /> [GeeksForGeeks](https://www.geeksforgeeks.org/profile/gopikash2331)
 
 
 > Let’s connect, collaborate, and create something amazing together—whether you’re a fellow coder, tech enthusiast, or recruiter on the lookout for fresh talent!
