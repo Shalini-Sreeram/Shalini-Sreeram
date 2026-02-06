@@ -86,8 +86,7 @@ Librosa | TensorFlow | Keras | Python | Streamlit
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="12" width="12" />   [LinkedIn](https://www.linkedin.com/in/shalini-sreeram/)
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="12" width="12" /> [LeetCode](https://leetcode.com/u/shalini_sreeram/)
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="15" width="15" /> [GeeksForGeeks](https://www.geeksforgeeks.org/profile/gopikash2331)
-
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="15" width="15" /> [GeeksForGeeks](https://www.geeksforgeeks.org/profile/gopikash2331?tab=activity)
 
 > Let’s connect, collaborate, and create something amazing together—whether you’re a fellow coder, tech enthusiast, or recruiter on the lookout for fresh talent!
 </p>
