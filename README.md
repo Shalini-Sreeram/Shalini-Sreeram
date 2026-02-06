@@ -34,19 +34,62 @@ Librosa | TensorFlow | Keras | Python | Streamlit
 → Implementing audio feature extraction, CNN-based emotion recognition, real-time speech input, and interactive UI for emotion-aware applications.  
 </p>
 
-<h3>🛠️ <b>Tech Stack:</b></h3>
-<pre>
-Python
-NumPy 
-Pandas
-Matplotlib
-Seaborn
-TensorFlow
-Keras
-scikit-learn
-Librosa
-OpenCV
-Streamlit
-VSCode
-</pre>
+<h2 style="color:red;">💻 <b>Tech Stack:</b></h2>
 
+<h3>👨‍💻 Programming Languages</h3>
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+<h3>📊 Data Analysis & Visualization</h3>
+<p>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/seaborn-%2300BFFF.svg?style=for-the-badge&logoColor=white"/>
+</p>
+
+<h3>🤖 Machine Learning & Deep Learning</h3>
+<p>
+<img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/librosa-%23FF1493.svg?style=for-the-badge&logoColor=white"/>
+</p>
+
+<h3>👁️ Computer Vision</h3>
+<p>
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black"/>
+</p>
+
+<h3>🖥️ Development & Deployment Tools</h3>
+<p>
+<img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+</p>
+
+
+</p>
+
+<h3>🗄️ Databases</h3>
+<p>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+<h3>🌐 <b>Let's Connect:</b></h3>
+<p style="font-size: 18px">
+
+- [LinkedIn](https://www.linkedin.com/in/shalini-sreeram/)
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shalini-sreeram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shalini-sreeram/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/shalini_sreeram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shalini_sreeram/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/gopikash2331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/gopikash2331" height="30" width="40" /></a>
+
+
+> Let’s connect, collaborate, and create something amazing together—whether you’re a fellow coder, tech enthusiast, or recruiter on the lookout for fresh talent!
+</p>
