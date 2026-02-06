@@ -1,4 +1,41 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hello World, I'm Shalini  
+
+✨ **About Me**  
+🎓 Computer Science & Engineering (CSM) Student  
+🌱 Passionate about learning, building, and sharing knowledge  
+💡 Exploring AI/ML, Python, and real-world projects  
+🚀 Focused on growth, collaboration, and impactful contributions  
+
+---
+
+## 🌌 My Journey  
+- 📚 Currently pursuing **B.Tech in Computer Science & Engineering (AI/ML specialization)**  
+- 🛠️ Skilled in **Python, DSA basics, TensorFlow, PyTorch, Streamlit**  
+- 🎶 Experienced in **audio processing (Librosa), CNNs for emotion recognition, and API integration**  
+- ✍️ Strong at **technical documentation and structured communication**  
+
+---
+
+## ✨ Projects & Work  
+- 🌦️ **Weather Forecasting App** — AeroPredict / SkySense  
+- 🎙️ **Speech Emotion Recognition App** — built with Librosa, CNN, and Streamlit  
+- 🖥️ Exploring **UI enhancements and direct audio recording features**  
+
+---
+
+## 🔮 What I Bring  
+💻 Programming: Python | Basic DSA  
+📊 Data Analysis: NumPy | Pandas | Matplotlib  
+🤖 Machine Learning: TensorFlow | PyTorch  
+🎶 Audio & Vision: Librosa | OpenCV | CNNs  
+☁️ Deployment: Streamlit | API Integration  
+
+---
+
+## 🌐 Let’s Connect  
+I enjoy building meaningful connections with developers, recruiters, and innovators.  
+💬 Let’s collaborate, learn, and create something impactful together!  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
