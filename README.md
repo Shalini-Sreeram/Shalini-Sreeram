@@ -2,6 +2,7 @@
 <p style="font-size:18px">
 👋Hello, I'm Sreeram Gopika Shalini! </p>
 <p align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini-sreeram&label=Profile%20views&color=0e75b6&style=flat" alt="shalini-sreeram" /> </p>
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00b4d8&center=true&vCenter=true&width=800&lines=🎓+Machine+Learning+Student;🤖Exploring+AI+%26+Ml;🖥️Python+Developer+Intern;🛠️Building+Real-World+projects;🌱Always+Learning,+Always+Building" />
 </p>
 
@@ -80,7 +81,7 @@ Librosa | TensorFlow | Keras | Python | Streamlit
 
 <h3>📜 Certificates</h3>
 <p align="center">
-  <img width="506" height="346" src="https://github.com/user-attachments/assets/4d4ad34a-5a2f-4983-b144-060e22353edb"/>
+  <img width="506" height="346" src="https://github.com/user-attachments/assets/4d4ad34a-5a2f-4983-b144-060e22353edb"/><br><br>
   <img width="506" height="346" src="https://github.com/user-attachments/assets/ea086d7b-d1ac-4675-8c6d-88d4574d063b"/>
 
 </p>
@@ -88,9 +89,39 @@ Librosa | TensorFlow | Keras | Python | Streamlit
 <h3>🌐 <b>Let's Connect:</b></h3>
 <p style="font-size: 18px">
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="12" width="12" />   [LinkedIn](https://www.linkedin.com/in/shalini-sreeram/)
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="12" width="12" /> [LeetCode](https://leetcode.com/u/shalini_sreeram/)
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="15" width="15" /> [GeeksForGeeks](https://www.geeksforgeeks.org/profile/gopikash2331?tab=activity)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="18" width="18" />   [LinkedIn](https://www.linkedin.com/in/shalini-sreeram/)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="18" width="18" /> [LeetCode](https://leetcode.com/u/shalini_sreeram/)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="18" width="18" /> [GeeksForGeeks](https://www.geeksforgeeks.org/profile/gopikash2331?tab=activity)
+- <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="18" width="18" /> [Gmail](mailto:gopikashalini23@gmail.com)  
 
 > Let’s connect, collaborate, and create something amazing together—whether you’re a fellow coder, tech enthusiast, or recruiter on the lookout for fresh talent!
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">  
+<!-- Languages -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin:10px;"/>
+
+<!-- Data Analysis -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="margin:10px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50" style="margin:10px;"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50" style="margin:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="50" height="50" style="margin:10px;"/>
+
+<!-- Computer Vision -->
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50" style="margin:10px;"/>
+
+<!-- Web & Deployment -->
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="50" height="50" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="50" height="50" style="margin:10px;"/>
+
+<!-- Databases -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" style="margin:10px;"/>
 </p>
