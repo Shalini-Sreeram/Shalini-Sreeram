@@ -72,13 +72,17 @@ Librosa | TensorFlow | Keras | Python | Streamlit
 <img src="https://img.shields.io/badge/anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
 </p>
 
-
-</p>
-
 <h3>🗄️ Databases</h3>
-<p>
+<p >
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+<h3>📜 Certificates</h3>
+<p align="center">
+  <img width="506" height="346" src="https://github.com/user-attachments/assets/4d4ad34a-5a2f-4983-b144-060e22353edb"/>
+  <img width="506" height="346" src="https://github.com/user-attachments/assets/ea086d7b-d1ac-4675-8c6d-88d4574d063b"/>
+
 </p>
 
 <h3>🌐 <b>Let's Connect:</b></h3>
