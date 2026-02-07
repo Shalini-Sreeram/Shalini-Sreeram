@@ -97,7 +97,7 @@ Librosa | TensorFlow | Keras | Python | Streamlit
 > Let’s connect, collaborate, and create something amazing together—whether you’re a fellow coder, tech enthusiast, or recruiter on the lookout for fresh talent!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️Languages and Tools:</h3>
 <p align="center">  
 <!-- Languages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin:10px;"/>
