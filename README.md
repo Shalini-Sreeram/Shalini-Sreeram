@@ -3,7 +3,7 @@
 👋Hello, I'm Sreeram Gopika Shalini! </p>
 <p align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini-sreeram&label=Profile%20views&color=0e75b6&style=flat" alt="shalini-sreeram" /> </p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00b4d8&center=true&vCenter=true&width=800&lines=🎓+Machine+Learning+Student;🤖Exploring+AI+%26+Ml;🖥️Python+Developer+Intern;🛠️Building+Real-World+projects;🌱Always+Learning,+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00b4d8&center=true&vCenter=true&width=800&lines=🎓+Machine+Learning+Student;🤖Exploring+AI+%26+Ml;🛠️Building+Real-World+projects;🌱Always+Learning,+Always+Building" />
 </p>
 
 <h3>🎓 <b>Education:</b></h3>
