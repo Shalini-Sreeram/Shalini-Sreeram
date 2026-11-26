@@ -21,20 +21,6 @@ Exploring Python, AI/ML, computer vision, and data visualization while building 
 Hands-on learning, projects, internships, and lots of curiosity.
 </p>
 
-<h3>🚀 <b>Currently Building</b></h3>
-<p style="font-size: 18px">
-🎙️ CNN-Based Speech Emotion Recognition  
-<br>
-🤖 Exploring deep learning, audio processing (Librosa), and real-time emotion detection  
-</p>
-
-<h3>🛠️ <b>Tech used in my ongoing project:</b></h3>
-<p style="font-size: 18px">
-Librosa | TensorFlow | Keras | Python | Streamlit  
-<br>
-→ Implementing audio feature extraction, CNN-based emotion recognition, real-time speech input, and interactive UI for emotion-aware applications.  
-</p>
-
 <h2 style="color:red;">💻 <b>Tech Stack:</b></h2>
 
 <h3>👨‍💻 Programming Languages</h3>
